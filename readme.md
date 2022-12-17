@@ -18,7 +18,6 @@
 - [Scope](#scope)
 - [Getting Started](#getting_started)
 - [Screenshots](#screenshots)
-- [Authors](#authors)
 
 
 ## 🚀 Scope <a name = "scope"></a>
@@ -66,9 +65,7 @@
 ![ss5](https://github.com/subhayand10/Branch-International/blob/master/screenshots/chatmainpage.JPG) 
 
 
-## ✍️ Authors <a name = "authors"></a>
 
-- [Subhayan Das](https://github.com/subhayand10)
 
 
 
