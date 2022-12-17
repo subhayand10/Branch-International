@@ -83,7 +83,7 @@
                             {% if channelCount > 0 %}
                                 <p class="chat-workspace-name" id="chat-workspace-name">{{channels[0].name}}</p>
                             {% else %}
-                                <p class="chat-workspace-name" id="chat-workspace-name">Start Collaborating today!</p>
+                                <p class="chat-workspace-name" id="chat-workspace-name">Ask queries!</p>
                             {% endif %}
                         </div>
                         <div class="chats d-flex flex-column" id="chats">
@@ -137,7 +137,7 @@
                             <a href="/logout" class="btn btn-primary mr-1">Logout</a>
                             <a href="#" class="btn btn-primary">Edit Profile</a>
                           </div>
-                          <a href="#" id="joinWorkspace" class="btn btn-primary mt-3">Join a Workspace</a>
+                          <a href="#" id="joinWorkspace" class="btn btn-primary mt-3">Join a chatroom</a>
                           <div id="card_code"></div>
                         </div>
                       </div>
@@ -148,7 +148,7 @@
 
     <div class="createWorkspaceModal" id="createWorkspaceModal">
         <div class="heading-createWorkspace">
-            <h5><span>teamwork</span> makes the dream work.</h5>
+            <h5><span>Customer</span> service</h5>
         </div>
         <div class="content-createWorkspace">
             <div class="createWorkspaceImage">
@@ -158,7 +158,7 @@
                 <form action="">
                     <input type="text" placeholder="Workspace Name" id="workspaceNameInput">
                     <input type="text" placeholder="Admin Name" id="workspaceNameUsername">
-                    <button class="btn btn-primary" id="createWorkspaceButton">Create workspace</button>
+                    <button class="btn btn-primary" id="createWorkspaceButton">Create chatroom</button>
                 </form>
                 <div class="closeCreateWorkspace" id="closeCreateWorkspace">
                     <p>Close</p>
@@ -198,9 +198,9 @@
             </div>
             <div class="joinWorkspaceForm">
                 <form action="">
-                    <input type="text" placeholder="Workspace Name" id="joinWorkspaceNameInput">
+                    <input type="text" placeholder="chatroom" id="joinWorkspaceNameInput">
                     <input type="text" placeholder="Joining Code" id="workspaceUserid">
-                    <button class="btn btn-primary" id="joinWorkspaceButton">Join workspace!</button>
+                    <button class="btn btn-primary" id="joinWorkspaceButton">Join chatroom!</button>
                 </form>
                 <div class="closeJoinWorkspace" id="closeJoinWorkspace">
                     <p>Close</p>
