@@ -9,7 +9,7 @@
 </h3>
 
 
-<p>This is a simple chat Flask chat app using socket.io for Branch international customers.Customers can use this app to chat with agents.Different workspaces are given where agents and cutomers can chat.</p>
+<p>This is a simple Flask chat app using socket.io for Branch international customers.Customers can use this app to chat with agents.Different workspaces are given where agents and cutomers can chat.</p>
 
 ---
 
