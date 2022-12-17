@@ -17,10 +17,8 @@
 
 - [Scope](#scope)
 - [Getting Started](#getting_started)
-- [Technology Stack](#tech_stack)
 - [Screenshots](#screenshots)
 - [Authors](#authors)
-- [Acknowledgments](#acknowledgments)
 
 
 ## 🚀 Scope <a name = "scope"></a>
