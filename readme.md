@@ -35,7 +35,7 @@
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
-- "git clone https://github.com/pri1311/crunch"
+- "git clone https://github.com/subhayand10/Branch-International"
 - "cd branch app" 
 - "pip install -r requirements.txt"
 - Add your cloudinary credentials to main.py, auth.py and views.py files.
