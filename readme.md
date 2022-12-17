@@ -53,21 +53,21 @@
 
 ## Landing Page
 
-![ss1](https://github.com/pri1311/crunch/blob/master/screenshots/landingPage1.png)
+![ss1](https://github.com/subhayand10/Branch-International/blob/master/screenshots/landing1.JPG)
 
-![ss2](https://github.com/pri1311/crunch/blob/master/screenshots/landingPage2.png)
+![ss2](https://github.com/subhayand10/Branch-International/blob/master/screenshots/landing2.JPG)
+
+## Sign In Page
+
+![ss3](https://github.com/subhayand10/Branch-International/blob/master/screenshots/signin.JPG)
 
 ## Sign Up Page
 
-![ss3](https://github.com/pri1311/crunch/blob/master/screenshots/signUpPage.png)
+![ss4](https://github.com/subhayand10/Branch-International/blob/master/screenshots/signup.JPG)
 
-## Main Page
+## Chat Page
 
-![ss4](https://github.com/pri1311/crunch/blob/master/screenshots/chatPage.png)
-
-## Responsive
-
-![ss5](https://github.com/pri1311/crunch/blob/master/screenshots/LoginPageResponsive.png) ![ss6](https://github.com/pri1311/crunch/blob/master/screenshots/responsiveChatScreen.png)
+![ss5](https://github.com/subhayand10/Branch-International/blob/master/screenshots/chatmainpage.JPG) 
 
 
 ## ✍️ Authors <a name = "authors"></a>
