@@ -22,9 +22,9 @@
 
 ## 🚀 Scope <a name = "scope"></a>
 - Signup and signin given for Branch international's agents and customers
-- Agents can make workspaces with particular ids
-- Multiple agents can sigin and make workspaces and different customers can join them
-- Customers can signin and join workspaces through ids
+- Agents can make chatrooms with particular ids
+- Multiple agents can sigin and make chatrooms and different customers can join them
+- Customers can signin and join chatrooms through ids
 - Customers can chat
 - sqlite database stores all messages(both customer's & agent's)
 - 
